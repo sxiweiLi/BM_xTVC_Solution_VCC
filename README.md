@@ -1,4 +1,4 @@
-# Virtual Cell Challenge Solution
+# BM_xTVC Virtual Cell Challenge Solution
 
 A machine learning solution for the Virtual Cell Challenge that predicts gene expression profiles from protein embeddings using ESM-2 (5120-dimensional) protein embeddings and a PyTorch multi-layer perceptron (MLP).
 
